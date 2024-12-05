@@ -1,0 +1,33 @@
+{
+	"folders": [
+		{
+			"path": "../blog-preview-card-figma"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+			"activityBar.activeBackground": "#1fe363",
+			"activityBar.background": "#1fe363",
+			"activityBar.foreground": "#15202b",
+			"activityBar.inactiveForeground": "#15202b99",
+			"activityBarBadge.background": "#9c71ed",
+			"activityBarBadge.foreground": "#15202b",
+			"commandCenter.border": "#e7e7e799",
+			"sash.hoverBorder": "#1fe363",
+			"statusBar.background": "#17b84f",
+			"statusBar.foreground": "#e7e7e7",
+			"statusBarItem.hoverBackground": "#1fe363",
+			"statusBarItem.remoteBackground": "#17b84f",
+			"statusBarItem.remoteForeground": "#e7e7e7",
+			"titleBar.activeBackground": "#17b84f",
+			"titleBar.activeForeground": "#e7e7e7",
+			"titleBar.inactiveBackground": "#17b84f99",
+			"titleBar.inactiveForeground": "#e7e7e799"
+		},
+		"peacock.color": "#17b84f",
+		"liveServer.settings.multiRootWorkspaceName": "blog-preview-card-main"
+	}
+}
