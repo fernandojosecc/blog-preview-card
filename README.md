@@ -36,7 +36,7 @@ This is a solution to the [Blog preview card challenge on](./preview.jpg)
 ---
 
 ### Links  
-- **Solution URL**: [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-TuNs5CGZhb)  
+- **Solution URL**: [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/blog-preview-card-0_Bs2ja5gp)  
 - **Live Site URL**: [Live Demo](https://fernandojosecc.github.io/blog-preview-card/)  
 
 ---
