@@ -1,0 +1,18 @@
+/* Replace placeholders with actual color codes from style-guide.md */
+:root {
+    --primary-color: rgb(227, 136, 38);
+    --secondary-color: rgb(17, 17,17, 100%);
+    --neutral-gray: rgb(107, 107, 107, 100%);
+    --white: rgb(255, 255, 255);
+}
+
+body{
+   font-family: 'Figtree', sans-serif;
+   font-size: 16px;
+   color: var(--neutral-gray);
+}
+
+.title{
+    font-weight: 700;
+    color: var(--secondary-color);
+}
